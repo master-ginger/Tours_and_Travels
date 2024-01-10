@@ -1,0 +1,52 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+@font-face {
+    font-family: rubikbf;
+    src: url("../public/RubikBrokenFax-Regular.ttf");
+}
+
+.rubikbf{
+    font-family: rubikbf;
+    letter-spacing: 2px;
+}
+
+
+@font-face {
+    font-family: pacifo;
+    src: url("../public/Pacifico-Regular.ttf");
+}
+
+.pacifo{
+    font-family: pacifo;
+    letter-spacing: 2px;
+    font-weight:lighter;
+}
+
+@font-face {
+    font-family: ultra;
+    src: url("../public/Ultra-Regular.ttf");
+}
+
+.ultra{
+    font-family: ultra;
+    letter-spacing: 2px;
+    
+}
+
+@font-face {
+    font-family: nunita;
+    src: url("../public/nunita-sans.ttf");
+}
+
+.nunita{
+    font-family: nunita;
+}
+
+@font-face {
+    font-family: salsa;
+    src: url("../public/Salsa-Regular.ttf");
+}
+
+.salsa{
+    font-family: salsa;
+}
